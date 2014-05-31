@@ -1,0 +1,11 @@
+resources/js/.module-cache
+resources/js/goalkeeper.js
+.lein-deps-sum
+.lein-failures
+.lein-plugins
+.lein-repl-history
+.git_info
+.DS_Store
+.nrepl-port
+.DS_Store
+package.by.packager
