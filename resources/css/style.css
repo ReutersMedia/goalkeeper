@@ -1,0 +1,176 @@
+#goalkeeper {
+  margin: 50px 0 0 50px ;
+}
+
+.goalkeeper {
+  font-size: 12px;
+  font-family: Arial, Helvetica, sans-serif;
+  width: 300px;
+}
+
+.goalkeeper .top-container {
+  background: #0D0D0C;
+}
+.goalkeeper .my-profile-image {
+  float: left;
+  margin: 10px 0 0 20px;
+  border: white solid 3px;
+}
+.goalkeeper .my-name {
+  float: left;
+  color: white;
+  font-weight: 700;
+  font-size: 18px;
+  margin: 30px 0 0 20px;
+}
+
+.goalkeeper .top {
+  background: url(/images/background_top.jpg) no-repeat bottom left;
+}
+
+.goalkeeper thead {
+  background-color: #666;
+  color: white;
+  font-weight: bold;
+  padding: 5px 0;
+}
+
+.goalkeeper th {
+  padding: 5px;
+  text-align: left;
+  border-right: #7A7A7A dashed 1px;
+}
+.goalkeeper th.last {
+  border-right: none;
+}
+
+.goalkeeper th.rank {
+  width: 70px;
+  padding-left: 10px;
+  
+}
+
+.goalkeeper th.name {
+  width: 110px;
+  text-align: left;
+}
+
+.goalkeeper th.predictions {
+  padding-left: 10px;
+  width: 65px;
+}
+
+.goalkeeper .level {
+  width: 55px;
+}
+
+.goalkeeper tbody {
+  border-right: #EEE solid 1px;
+  border-left: #EEE solid 1px;
+  border-bottom: #666 solid 5px;
+}
+
+.goalkeeper td {
+  padding: 5px;
+}
+
+.goalkeeper td.position {
+  padding-left: 10px;
+}
+
+.goalkeeper td .rank {
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 18px;
+}
+
+.goalkeeper td img.profile-pic {
+  margin-left: 3px;
+}
+
+.goalkeeper td.expert-level {
+  padding-left: 20px
+}
+
+.goalkeeper td img {
+  float: left;
+}
+
+.goalkeeper td.name {
+  font-weight: 700;
+  color: #0099FF;
+  padding: 5px 0;
+}
+
+.goalkeeper .my-predictions {
+  height: 100px;
+  padding: 20px 0 20px 10px;
+  clear: both;
+}
+.goalkeeper .my-predictions .predictions-title {
+  font-size: 14px;
+  color: #ccff00;
+  margin-bottom: 10px;
+}
+.goalkeeper .my-predictions .predictions-subtitle {
+  font-color: 12px;
+  color: #ccc;
+  font-style: italic;
+}
+
+.goalkeeper .my-ranking {
+  height: 100px;
+  padding: 20px 0 20px 10px;
+  float: right;
+  width: 150px;
+}
+
+.goalkeeper td .fullname {
+  position: relative;
+  left: 5px;
+}
+.goalkeeper td.predictions {
+  padding-left: 10px;
+}
+.goalkeeper td .flag-small {
+  display: inline-block;
+  margin-right: 3px;
+  width: 21px; 
+  height: 14px; 
+  background: url(/images/flags_small.png) no-repeat top left;
+}
+
+.goalkeeper td .flag-small.EMPTY{ background-position: 0 -364px;}
+.goalkeeper td .flag-small.ALG{ background-position: 0 0;} 
+.goalkeeper td .flag-small.ARG{ background-position: 0 -28px;} 
+.goalkeeper td .flag-small.AUS{ background-position: 0 -56px;} 
+.goalkeeper td .flag-small.BEL{ background-position: 0 -84px;} 
+.goalkeeper td .flag-small.BIH{ background-position: 0 -112px;} 
+.goalkeeper td .flag-small.BRA{ background-position: 0 -140px;} 
+.goalkeeper td .flag-small.CHI{ background-position: 0 -168px;} 
+.goalkeeper td .flag-small.CIV{ background-position: 0 -196px;} 
+.goalkeeper td .flag-small.CMR{ background-position: 0 -224px;} 
+.goalkeeper td .flag-small.COL{ background-position: 0 -252px;} 
+.goalkeeper td .flag-small.CRC{ background-position: 0 -280px;} 
+.goalkeeper td .flag-small.CRO{ background-position: 0 -308px;} 
+.goalkeeper td .flag-small.ECU{ background-position: 0 -336px;} 
+.goalkeeper td .flag-small.ENG{ background-position: 0 -392px;} 
+.goalkeeper td .flag-small.ESP{ background-position: 0 -420px;} 
+.goalkeeper td .flag-small.FRA{ background-position: 0 -448px;} 
+.goalkeeper td .flag-small.GER{ background-position: 0 -476px;} 
+.goalkeeper td .flag-small.GHA{ background-position: 0 -504px;} 
+.goalkeeper td .flag-small.GRE{ background-position: 0 -532px;} 
+.goalkeeper td .flag-small.HON{ background-position: 0 -560px;} 
+.goalkeeper td .flag-small.IRN{ background-position: 0 -588px;} 
+.goalkeeper td .flag-small.ITA{ background-position: 0 -616px;} 
+.goalkeeper td .flag-small.JPN{ background-position: 0 -644px;} 
+.goalkeeper td .flag-small.KOR{ background-position: 0 -672px;} 
+.goalkeeper td .flag-small.MEX{ background-position: 0 -700px;} 
+.goalkeeper td .flag-small.NED{ background-position: 0 -728px;} 
+.goalkeeper td .flag-small.NGA{ background-position: 0 -756px;} 
+.goalkeeper td .flag-small.POR{ background-position: 0 -784px;} 
+.goalkeeper td .flag-small.RUS{ background-position: 0 -812px;} 
+.goalkeeper td .flag-small.SUI{ background-position: 0 -840px;} 
+.goalkeeper td .flag-small.URU{ background-position: 0 -868px;} 
+.goalkeeper td .flag-small.USA{ background-position: 0 -896px;} 
+.goalkeeper td .flag-small.TIE{ background-position: 0 -924px;} 
